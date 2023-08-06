@@ -7,7 +7,7 @@ Main data types that are used: vectors X and Y, variable n for the length of bot
 
 The Calculations that can be made:
 - Inner Product: (X*Y)
-- Average Values: Ex, Ey (from each vector)
+- Average Values: Ex, Ey (for each vector)
 - Product: r*(X+Y)
 
 ## Requirements
