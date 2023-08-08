@@ -21,9 +21,16 @@ The Calculations that can be made:
 ```
  
 ## How to run
+Run RPC Server:
 ```
     ./ask_rpc_server
+```
+Run RPC Client / Socket Server:
+```
     ./ask_rpc_client localhost <port>
+```
+Run Socket Client:
+```
     ./client localhost <port>
 ```
 *Each command should be executed in a different terminal.*
