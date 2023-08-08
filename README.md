@@ -10,7 +10,7 @@ The Calculations that can be made:
 - Average Values: Ex, Ey (for each vector)
 - Product: r*(X+Y)
 
-## Requirements
+## Prerequisites
 - RPC installed
 - Linux environment or WSL
 
